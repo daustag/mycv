@@ -65,14 +65,12 @@ h3{
 .kanan ul li{
     list-style: none;
     background-color: rgb(8, 8, 163);
-    padding: 5px;
     padding-left: 10px;
     margin-left: -20px;
 }
 .kanan ul li:hover{
     list-style: none;
     background-color: rgb(255, 255, 255);
-    padding: 5px;
     color: black;
     padding-left: 10px;
     margin-left: -20px;
