@@ -1,0 +1,92 @@
+h3{
+    color: rgb(1, 78, 122);
+}
+.name {
+    width: 800px;
+}
+.name h1 {
+    font-size: 50px;
+    color: white;
+}
+.name h2 {
+    font-size: 30px;
+    color: white;
+}
+.name p {
+    color: white;
+}
+.name a {
+    color: yellow;
+    text-decoration: none;
+}
+.name a:hover {
+    color: white;
+    text-decoration: none;
+}
+.atas {
+    padding: 50px;
+    background-color: rgb(1, 78, 122);
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    height: 400px;
+    align-items: center;
+}
+.atas .img1 {
+    border-radius: 100%;
+    padding: 5px;
+    border: 3px solid white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.bm{
+    display: flex;
+    align-items: top;
+    gap: 10px;
+}
+.se {
+    display: flex;
+    align-items: top;
+    gap: 10px;
+}
+.bawah{
+    display: flex;
+    gap: 20px;
+}
+.aboutme{
+    padding: 50px;
+    width: 1000px;
+}
+.kanan {
+    padding: 50px;
+    background-color: #2196F3;
+}
+.kanan ul li{
+    list-style: none;
+    background-color: rgb(8, 8, 163);
+    padding: 5px;
+    padding-left: 10px;
+    margin-left: -20px;
+}
+.kanan ul li:hover{
+    list-style: none;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    color: black;
+    padding-left: 10px;
+    margin-left: -20px;
+}
+.kanan ul li a{
+    color: white;
+    text-decoration: none;
+}
+.kanan ul li a:hover{
+    color: black;
+    text-decoration: none;
+}
+.tbl-atas{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+}
